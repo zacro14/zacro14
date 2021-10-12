@@ -5,8 +5,8 @@
 - 📫 How to reach me ... sacrojunel@protonmail.com
 ---------------------------
 hi my name is Junel Sacro
-👊 learning in front end dev using react js
-looking for work
+👊 learning in front end dev using react js I'am
+looking for job related to react thank you
 
 <!---
 zacro14/zacro14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
