@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zacro14
 - 👀 I’m interested in ...Front End Development
 - 🌱 I’m currently learning ...React Js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... sacrojunel@protonmail.com
 ---------------------------
 hi my name is Junel Sacro
