@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning ...React Js
 - 📫 How to reach me ... sacrojunel@protonmail.com
 ---------------------------
-hi my name is Junel Sacro
-👊 learning in front end dev using react js I'am
-looking for job related to react thank you
+Hi my name is Junel Sacro
+👊 Why development is fun but sometimes? 👀
+
 
 <!---
 zacro14/zacro14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
