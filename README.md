@@ -1,10 +1,11 @@
  sacrojunel@protonmail.com
 ---------------------------
-Hi my name is Junel Sacro
-👊 Why development is fun but sometimes? 👀
+Hi there! 👋
 
+I'm a full-stack developer with a passion for building web applications. I specialize in JavaScript and its many frameworks and libraries, but I'm always eager to learn new technologies.
 
-<!---
-zacro14/zacro14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My GitHub is where I showcase my personal and professional projects, ranging from small side projects to larger applications. I believe in the power of open-source software and love contributing to the community.
+
+When I'm not coding, you can find me reading, watching anime.
+
+Feel free to check out my work and get in touch! 🤝
