@@ -4,7 +4,7 @@ Hi there! 👋
 
 I'm a full-stack developer with a passion for building web applications. I specialize in JavaScript and typescript and its frameworks and libraries, but I'm always eager to learn new technologies.
 
-My GitHub is where I showcase my personal and professional projects, ranging from small side projects to larger applications. I believe in the power of open-source software and love contributing to the community.
+My GitHub is where I showcase my personal projects, I believe in the power of open-source software and love contributing to the community.
 
 When I'm not coding, you can find me reading, watching anime.
 
